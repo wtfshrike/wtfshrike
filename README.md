@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya "shr!ke"</h1>
+<h1 align="center">Hi 👋, I'm Aditya "shr!ke" Ranjan</h1>
 <h3 align="center">Currently Learning Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wtfshrike&label=Profile%20views&color=0e75b6&style=flat" alt="wtfshrike" /> </p>
