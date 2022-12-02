@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/adi_shrike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adi_shrike" height="30" width="40" /></a>
+<a href="https://instagram.com/adi_shrike" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="adi_shrike" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shrikygaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shrike" height="30" width="40" /></a>
 <a href="https://discord.gg/5jrNmxpwZP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5jrNmxpwZP" height="30" width="40" /></a>
 </p>
