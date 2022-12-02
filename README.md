@@ -20,10 +20,8 @@
 
 
 
+![](https://github-readme-stats.vercel.app/api?username=shrike&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shrike&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrike&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wtfshrike&show_icons=true&locale=en&layout=compact" alt="wtfshrike" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wtfshrike&show_icons=true&locale=en" alt="wtfshrike" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wtfshrike&" alt="wtfshrike" /></p>
 
