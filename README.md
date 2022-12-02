@@ -6,9 +6,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/adi_shrike" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="adi_shrike" height="30" width="40" /></a>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://[discord.gg/xyz](https://discord.gg/5jrNmxpwZP)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adi_shrike) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/shrikygaming) 
+
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="adi_shrike" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shrikygaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shrike" height="30" width="40" /></a>
-<a href="https://discord.gg/5jrNmxpwZP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5jrNmxpwZP" height="30" width="40" /></a>
+<a href="https://discord.gg/5jrNmxpwZP" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg](https://img.shields.io/badge/Discord-%237289DA.svg)" alt="5jrNmxpwZP" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
