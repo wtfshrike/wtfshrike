@@ -3,7 +3,8 @@
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wtfshrike&label=Profile%20views&color=0e75b6&style=flat" alt="wtfshrike" /> </p>
-## 🌐 Socials:
+
+  ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/5jrNmxpwZP) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adi_shrike) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/shrikygaming) 
 
 <!-- <h3 align="left">Connect with me:</h3>
